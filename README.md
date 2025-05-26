@@ -186,11 +186,7 @@ Herramientas y Tecnologias con las que he trabajado o usado.
 </div>
 
 
-<img 
-  src="https://ghchart.rshah.org/ClaudiaPM" 
-  alt="Gráfico de contribuciones de GitHub de ClaudiaPM" 
-  style="width: 100%; max-width: 700px;"
->
+![Contribuciones de GitHub](https://ghchart.rshah.org/ClaudiaPM)
 
 
 ---
