@@ -115,16 +115,17 @@ Herramientas y Tecnologias con las que he trabajado o usado.
 - 🛠️ **Herramientas**: Git, Postman, DBeaver, RustDesk
 
 ## Experiencia
-- **Desarrollador Full Stack – Empresa X** (2023 - Actualidad)
+- **Desarrollador De Software Full Stack – Grupo CASSA** (2025 - Actualidad)
   - Desarrollo de aplicaciones para el area empresarial.
-  - Experiencia en area de Tesoreria 
+  - Desarrollo de aplicaciones para el area agricola.
+  - Rol de BAU
 
 ## Educación
-- Ingeniería de Sistemas Computacionales – Universidad De Sonsonate, El Salvador
+- Ingeniería de Sistemas Computacionales – **Universidad De Sonsonate, El Salvador**
 
 ## 💡 Proyectos Destacados
-- 🧾 [Control de Gastos Personales](https://github.com/tuusuario/gastos-app)
-- 🏗️ [Gestión de Almacenes ASP.NET](https://github.com/tuusuario/almacenes-app)
+- 🧾 [Control de Gastos Personales](https://github.com/ClaudiaPM/gastos-app)
+- 🏗️ [Convesor Java + Spring](https://github.com/ClaudiaPM/ChallengeAlura-Conversor.git)
 
 ### ✨ Fun facts
 
