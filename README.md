@@ -7,28 +7,17 @@
 <p align="center">Ingenerio En Sistemas Computacionales, con enfoque en el Desarrollo de Software. 👀 Actualmente estoy apasionada en el Desarrollo De Software, Front-End, Back-End, Dominio de Base de Datos, me gustan las buenas practicas y mantener un codigo limpio y elegante. Ademas de ello, estoy especializandome en SAP 🌱. </p>
 
 ## 🚀 Tecnologías
-<h3 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="Laravel"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
-  &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="30" alt="SQL Server"/>
-</h3>
 
 Herramientas y Tecnologias con las que he trabajado o usado.
 <table> <tr> <td align="center" width="100"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br>JavaScript </td> <td align="center" width="100"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" /><br>HTML </td> <td align="center" width="100"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" /><br>CSS </td> <td align="center" width="100"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" /><br>CSS </td> <td align="center" width="100"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  width="40" /><br>Java </td> <td align="center" width="100"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" /><br>C# </td> <td align="center" width="100"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /><br>C++ </td> <td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" /><br>Laravel </td> <td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" /><br>React </td> <td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /><br>PostgreSQL </td> <td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" /><br>MySQL </td> <td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"  width="40" /><br>SQL Server </td> <td align="center" width="100">
