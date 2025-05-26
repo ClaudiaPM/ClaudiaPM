@@ -141,12 +141,12 @@ Herramientas y Tecnologias con las que he trabajado o usado.
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaPM&langs_count=8&theme=dark&layout=compact"
       alt="Lenguajes más usados"
-      style="width: 100%; height: 50%; object-fit: cover;"
+      style="width: 50%; height: 50%; object-fit: cover;"
     >
     <img 
       src="https://github-contribution-stats.vercel.app/api?username=ClaudiaPM&theme=dark"  
       alt="Estadísticas de Contribución"
-      style="width: 100%; height: 50%; object-fit: cover;"
+      style="width: 50%; height: 50%; object-fit: cover;"
     >
   </div>
 </div>
