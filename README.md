@@ -139,7 +139,7 @@ Herramientas y Tecnologias con las que he trabajado o usado.
 
 ### 📊 GitHub Stats
 
-### - 📊 Lenguajes Más Usados
+<h3 style="font-size: 18px; font-weight: bold;"> 📊 Lenguajes Más Usados </h3>
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaPM&langs_count=8&theme=dark&layout=compact )
 
 ### - 🚀 Estadísticas de GitHub
@@ -147,6 +147,16 @@ Herramientas y Tecnologias con las que he trabajado o usado.
 
 ### - 📅 Gráfico de Contribuciones
 ![Gráfico de Contribuciones](https://contributions-calender.vercel.app/api?username=ClaudiaPM&theme=dark )
+
+<h3 style="font-size: 18px; font-weight: bold;">📅 Gráfico de Contribuciones</h3>
+<div align="center">
+  <img src="https://contributions-calender.vercel.app/api?username=ClaudiaPM&theme=dark " alt="Gráfico de Contribuciones">
+</div>
+
+<h3 style="font-size: 18px; font-weight: bold;">📊 Estadísticas de Contribución</h3>
+<div align="center">
+  <img src="https://github-contribution-stats.vercel.app/api?username=ClaudiaPM&theme=dark " alt="Estadísticas de Contribución">
+</div>
 
 ### - ⏳ Tiempo de Desarrollo Semanal
 ![Tiempo de Desarrollo Semanal](https://github-readme-stats.vercel.app/api/wakatime?username=ClaudiaPM&theme=dark )
