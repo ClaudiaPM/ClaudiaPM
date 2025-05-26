@@ -186,11 +186,11 @@ Herramientas y Tecnologias con las que he trabajado o usado.
 </div>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<img 
+  src="https://ghchart.rshah.org/ClaudiaPM" 
+  alt="Gráfico de contribuciones de GitHub de ClaudiaPM" 
+  style="width: 100%; max-width: 700px;"
+>
 
 
 ---
