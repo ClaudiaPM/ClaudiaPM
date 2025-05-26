@@ -4,7 +4,7 @@
 <img src="https://res.cloudinary.com/dinamwmxq/image/upload/v1748272665/e36ec678-7984-4cdd-8e4c-a3932772ff8e_myi9vl.gif" width="100%"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?ClaudiaPM=TU_USUARIO&label=VISITORS&color=0E1117&style=flat-square" alt="contador" />
+  <img src="https://komarev.com/ghpvc/?username=ClaudiaPM&label=VISITANTES&color=0E1117&style=flat-square" alt="Contador de visitas" />
 </p>
 
 <p align="center">
