@@ -186,7 +186,7 @@ Herramientas y Tecnologias con las que he trabajado o usado.
 </div>
 
 
-![Contribuciones de GitHub](https://ghchart.rshah.org/ClaudiaPM)
+![Contribuciones de GitHub]("https://github-profile-trophy.vercel.app/?username=ClaudiaPM&theme=algolia&margin-w=15&margin-h=15")
 
 
 ---
