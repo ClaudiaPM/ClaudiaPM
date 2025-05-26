@@ -151,7 +151,7 @@ Herramientas y Tecnologias con las que he trabajado o usado.
 </div>
 
 ### - ⏳ Tiempo de Desarrollo Semanal
-![Tiempo de Desarrollo Semanal](https://github-readme-stats.vercel.app/api/wakatime?username=ClaudiaPM&theme=dark )
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ClaudiaPM&theme=dark " alt="Estadísticas de Contribución" >
 
 
 ---
