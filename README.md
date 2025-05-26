@@ -137,7 +137,7 @@ Herramientas y Tecnologias con las que he trabajado o usado.
 ### 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
-  <div style="width: 300px; height: 300px; display: flex; flex-direction: column; gap: 10px;">
+  <div style="width: 100px; height: 100px; display: flex; flex-direction: column; gap: 10px;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaPM&langs_count=8&theme=dark&layout=compact"
       alt="Lenguajes más usados"
