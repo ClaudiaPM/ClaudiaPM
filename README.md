@@ -114,38 +114,11 @@ Herramientas y Tecnologias con las que he trabajado o usado.
 - 🎨 **Front-End**: React, Vite, JavaScript ES6+
 - 🛠️ **Herramientas**: Git, Postman, DBeaver, RustDesk
 
-<style>
-  .tech-table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-
-  .tech-table td {
-    vertical-align: top;
-    padding: 8px 12px;
-  }
-
-  .badge {
-    display: inline-block;
-    background-color: #333;
-    color: white;
-    border-radius: 12px;
-    padding: 4px 10px;
-    font-size: 14px;
-    margin: 4px 4px 4px 0;
-  }
-
-  .emoji-label {
-    font-weight: bold;
-    display: block;
-    margin-bottom: 6px;
-  }
-</style>
-
 <table class="tech-table">
   <tr>
-    <td><span class="emoji-label">🗃️ Bases de datos</span></td>
+    <td><span class="emoji-label">**🗃️ Bases de datos**</span></td>
     <td>
+      <img src="https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white">
       <span class="badge">MySQL</span>
       <span class="badge">SQL Server</span>
     </td>
