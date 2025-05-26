@@ -116,11 +116,11 @@ Herramientas y Tecnologias con las que he trabajado o usado.
 
 <table class="tech-table">
   <tr>
-    <td><span class="emoji-label">**🗃️ Bases de datos**</span></td>
+    <td><span class="emoji-label">🗃️ Bases de datos</span></td>
     <td>
       <img src="https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white">
       <span class="badge">MySQL</span>
-      <span class="badge">SQL Server</span>
+      <span class="badge" src="(https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)">SQL Server</span>
     </td>
   </tr>
   <tr>
