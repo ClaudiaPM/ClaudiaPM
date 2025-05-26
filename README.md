@@ -119,33 +119,32 @@ Herramientas y Tecnologias con las que he trabajado o usado.
     <td><span class="emoji-label">🗃️ Bases de datos</span></td>
     <td>
       <img src="https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white">
-      <span class="badge">MySQL</span>
-      <span class="badge" src="(https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)">SQL Server</span>
+      <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white">
     </td>
   </tr>
   <tr>
     <td><span class="emoji-label">🏗️ Back-End</span></td>
     <td>
-      <span class="badge">Laravel</span>
-      <span class="badge">ASP.NET MVC</span>
-      <span class="badge">Java</span>
+      <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
+      <img src="https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?style=flat&logo=dotnet&logoColor=white">
+      <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
     </td>
   </tr>
   <tr>
     <td><span class="emoji-label">🎨 Front-End</span></td>
     <td>
-      <span class="badge">React</span>
-      <span class="badge">Vite</span>
-      <span class="badge">JavaScript ES6+</span>
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+      <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
     </td>
   </tr>
   <tr>
     <td><span class="emoji-label">🛠️ Herramientas</span></td>
     <td>
-      <span class="badge">Git</span>
-      <span class="badge">Postman</span>
-      <span class="badge">DBeaver</span>
-      <span class="badge">RustDesk</span>
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+      <img src="https://img.shields.io/badge/-DBeaver-372923?style=flat&logo=dbeaver&logoColor=white">
+      <img src="https://img.shields.io/badge/-RustDesk-1E90FF?style=flat&logoColor=white">
     </td>
   </tr>
 </table>
