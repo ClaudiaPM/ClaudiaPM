@@ -4,7 +4,19 @@
 <img src="https://res.cloudinary.com/dinamwmxq/image/upload/v1748272665/e36ec678-7984-4cdd-8e4c-a3932772ff8e_myi9vl.gif" width="100%"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=VISITORS&color=0E1117&style=flat-square" alt="contador" />
+  <img src="https://komarev.com/ghpvc/?ClaudiaPM=TU_USUARIO&label=VISITORS&color=0E1117&style=flat-square" alt="contador" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/claudia-iliana-padilla-517408161/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:claudia.padmag@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Correo" />
+  </a>
+  <a href="https://tuportafolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-purple?style=flat-square&logo=FirefoxBrowser&logoColor=white" alt="Portafolio" />
+  </a>
 </p>
 
 ## Sobre mí
