@@ -1,7 +1,7 @@
 
 <h1 align="left">Hey 👋, Soy Claudia Iliana Padilla </h1>
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+<img src="https://res.cloudinary.com/dinamwmxq/image/upload/v1748272665/e36ec678-7984-4cdd-8e4c-a3932772ff8e_myi9vl.gif" width="100%"/>
 
 ## Sobre mí
 <p align="center">Ingenerio En Sistemas Computacionales, con enfoque en el Desarrollo de Software. 👀 Actualmente estoy apasionada en el Desarrollo De Software, Front-End, Back-End, Dominio de Base de Datos, me gustan las buenas practicas y mantener un codigo limpio y elegante. Ademas de ello, estoy especializandome en SAP 🌱. </p>
