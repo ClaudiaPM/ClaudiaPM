@@ -132,10 +132,6 @@ Herramientas y Tecnologias con las que he trabajado o usado.
 - 🎮 Gamer ocasional – fan de los juegos retro
 - 🎧 Codeo con lo-fi, trap o techno sin letras
 
-## 📫 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/claudia-iliana-padilla-517408161/))
-[![Correo](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:claudia.padmag@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-purple?logo=world&logoColor=white)](https://tuportafolio.com)
 
 ### 📊 GitHub Stats
 
@@ -145,12 +141,10 @@ Herramientas y Tecnologias con las que he trabajado o usado.
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <div>
-    
-    ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaPM&langs_count=8&theme=dark&layout=compact)
-    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaPM&langs_count=8&theme=dark&layout=compact" alt="Lenguajes más usados">
   </div>
   <div>
-    <img src="https://github-contribution-stats.vercel.app/api?username=ClaudiaPM&theme=dark " alt="Estadísticas de Contribución">
+    <img src="https://github-contribution-stats.vercel.app/api?username=ClaudiaPM&theme=dark" alt="Estadísticas de Contribución">
   </div>
 </div>
 
