@@ -83,8 +83,6 @@ Herramientas y Tecnologias con las que he trabajado o usado.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br>Git
     </td>
     <!-- Puedes dejar celdas vacías si quieres mantener 12 columnas exactas -->
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
