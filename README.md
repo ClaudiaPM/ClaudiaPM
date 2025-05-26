@@ -137,20 +137,16 @@ Herramientas y Tecnologias con las que he trabajado o usado.
 ### 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaPM&langs_count=8&theme=dark&layout=compact"
+  <div style="width: 300px; height: 300px; display: flex; flex-direction: column; gap: 10px;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaPM&langs_count=8&theme=dark&layout=compact"
       alt="Lenguajes más usados"
-      style="max-width: 100%; height: auto;"  
+      style="width: 100%; height: 50%; object-fit: cover;"
     >
-     <img src="https://github-contribution-stats.vercel.app/api?username=ClaudiaPM&theme=dark"  
+    <img 
+      src="https://github-contribution-stats.vercel.app/api?username=ClaudiaPM&theme=dark"  
       alt="Estadísticas de Contribución"
-      style="max-width: 100%; height: auto;"
-    >
-  </div>
-  <div>
-    <img src="https://github-contribution-stats.vercel.app/api?username=ClaudiaPM&theme=dark"  
-      alt="Estadísticas de Contribución"
-      style="max-width: 100%; height: auto;"
+      style="width: 100%; height: 50%; object-fit: cover;"
     >
   </div>
 </div>
