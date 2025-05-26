@@ -181,8 +181,7 @@ Herramientas y Tecnologias con las que he trabajado o usado.
             alt="Estadísticas de Contribución"
             style="width: 50%; height: 50%; object-fit: cover;"
           > -->
-   <img src="https://github-readme-stats.vercel.app/api?username=ClaudiaPM&show_icons=true&theme=dark" alt="Estadísticas de Contribución"
-            style="width: 50%; height: 50%; object-fit: cover;" />
+   <img src="https://github-readme-stats.vercel.app/api?username=ClaudiaPM&show_icons=true&theme=dark" alt="Estadísticas de Contribución" />
   </div>
 </div>
 
