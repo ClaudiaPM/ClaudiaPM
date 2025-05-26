@@ -146,7 +146,7 @@ Herramientas y Tecnologias con las que he trabajado o usado.
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <div>
     
-    ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaPM&langs_count=8&theme=dark&layout=compact )
+    ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaPM&langs_count=8&theme=dark&layout=compact)
     
   </div>
   <div>
