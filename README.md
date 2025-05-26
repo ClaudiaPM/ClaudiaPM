@@ -114,8 +114,72 @@ Herramientas y Tecnologias con las que he trabajado o usado.
 - 🎨 **Front-End**: React, Vite, JavaScript ES6+
 - 🛠️ **Herramientas**: Git, Postman, DBeaver, RustDesk
 
+<style>
+  .tech-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .tech-table td {
+    vertical-align: top;
+    padding: 8px 12px;
+  }
+
+  .badge {
+    display: inline-block;
+    background-color: #333;
+    color: white;
+    border-radius: 12px;
+    padding: 4px 10px;
+    font-size: 14px;
+    margin: 4px 4px 4px 0;
+  }
+
+  .emoji-label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 6px;
+  }
+</style>
+
+<table class="tech-table">
+  <tr>
+    <td><span class="emoji-label">🗃️ Bases de datos</span></td>
+    <td>
+      <span class="badge">MySQL</span>
+      <span class="badge">SQL Server</span>
+    </td>
+  </tr>
+  <tr>
+    <td><span class="emoji-label">🏗️ Back-End</span></td>
+    <td>
+      <span class="badge">Laravel</span>
+      <span class="badge">ASP.NET MVC</span>
+      <span class="badge">Java</span>
+    </td>
+  </tr>
+  <tr>
+    <td><span class="emoji-label">🎨 Front-End</span></td>
+    <td>
+      <span class="badge">React</span>
+      <span class="badge">Vite</span>
+      <span class="badge">JavaScript ES6+</span>
+    </td>
+  </tr>
+  <tr>
+    <td><span class="emoji-label">🛠️ Herramientas</span></td>
+    <td>
+      <span class="badge">Git</span>
+      <span class="badge">Postman</span>
+      <span class="badge">DBeaver</span>
+      <span class="badge">RustDesk</span>
+    </td>
+  </tr>
+</table>
+
 ## Experiencia
-- **Desarrollador De Software Full Stack – Grupo CASSA** (2025 - Actualidad)
+- **Desarrollador De Software Full Stack – Grupo CASSA**
+  - (2025 - Actualidad)
   - Desarrollo de aplicaciones para el area empresarial.
   - Desarrollo de aplicaciones para el area agricola.
   - Rol de BAU
@@ -124,8 +188,10 @@ Herramientas y Tecnologias con las que he trabajado o usado.
 - Ingeniería de Sistemas Computacionales – **Universidad De Sonsonate, El Salvador**
 
 ## 💡 Proyectos Destacados
-- 🧾 [Control de Gastos Personales](https://github.com/ClaudiaPM/gastos-app)
+<!-- - 🧾 [Control de Gastos Personales](https://github.com/ClaudiaPM/gastos-app) -->
+- 🕵🏻‍♀️ [Encriptador de Texto](https://github.com/ClaudiaPM/EncriptadorTexto-.git)
 - 🏗️ [Convesor Java + Spring](https://github.com/ClaudiaPM/ChallengeAlura-Conversor.git)
+- 🏨 [Hotel Alura](https://github.com/ClaudiaPM/HotelAlura.git)
 
 ### ✨ Fun facts
 
@@ -150,9 +216,6 @@ Herramientas y Tecnologias con las que he trabajado o usado.
     >
   </div>
 </div>
-
-### - ⏳ Tiempo de Desarrollo Semanal
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ClaudiaPM&theme=dark " alt="Estadísticas de Contribución" >
 
 
 ---
