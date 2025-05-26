@@ -186,6 +186,13 @@ Herramientas y Tecnologias con las que he trabajado o usado.
 </div>
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+
 ---
 
 > _“El código no se escribe solo. Pero con café y flow, casi casi sí.”_
