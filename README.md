@@ -21,6 +21,35 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="30" alt="SQL Server"/>
 </h3>
 
+Herramientas y Tecnologias con las que he trabajado o usado.
+<table> <tr> <td align="center" width="100"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br>JavaScript </td> <td align="center" width="100"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" /><br>HTML </td> <td align="center" width="100"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" /><br>CSS </td> <td align="center" width="100"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  width="40" /><br>Java </td> <td align="center" width="100"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" /><br>C# </td> <td align="center" width="100"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /><br>C++ </td> <td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /><br>PostgreSQL </td> <td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" /><br>MySQL </td> <td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"  width="40" /><br>SQL Server </td> <td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"  width="40" /><br>DBeaver </td> <td align="center" width="100"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  width="40" /><br>Figma </td> <td align="center" width="100"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" /><br>Vercel </td> <td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" /><br>Visual Code </td> <td align="center" width="100"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" /><br>Visual Studio </td> <td align="center" width="100"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" width="40" /><br>Ionic </td> <td align="center" width="100"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" /><br>Postman </td> <td align="center" width="100"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg"  width="40" /><br>Bitbucket </td> <td align="center" width="100"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /><br>GitHub </td> </tr> <tr> <td align="center" width="100"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40" /><br>Gitlab </td> <td align="center" width="100"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br>Git </td> </tr> </table>
+
+
+<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br>ASP .NET </td> <td align="center" width="100"> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br>Python </td> <td align="center" width="100"> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /><br>Docker </td> <td align="center" width="100"> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /><br>Linux </td> <td align="center" width="100"> -->
+
 ## Habilidades
 - 🗃️ **Bases de datos**: MySQL, SQL Server
 - 🏗️ **Back-End**: Laravel, ASP.NET MVC, Java
