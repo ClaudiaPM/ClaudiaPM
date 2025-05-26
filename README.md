@@ -45,13 +45,13 @@ Herramientas y Tecnologias con las que he trabajado o usado.
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" /><br>SQL Server
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" /><br>DBeaver
-    </td>
   </tr>
 
   <!-- 🧰 Tecnologías - Fila 2 -->
   <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" /><br>DBeaver
+    </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" /><br>Figma
     </td>
