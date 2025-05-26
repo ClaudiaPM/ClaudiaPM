@@ -135,11 +135,7 @@ Herramientas y Tecnologias con las que he trabajado o usado.
 
 ### 📊 GitHub Stats
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaPM&langs_count=8&theme=dark&layout=compact )
-
-
-
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaPM&langs_count=8&theme=dark&layout=compact" alt="Lenguajes más usados">
   </div>
