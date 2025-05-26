@@ -1,5 +1,5 @@
 
-<h1 align="left">Hey 👋, Soy Claudia Iliana Padilla </h1>
+<h1 align="center">Hey 👋, Soy Claudia Iliana Padilla </h1>
 
 <img src="https://res.cloudinary.com/dinamwmxq/image/upload/v1748272665/e36ec678-7984-4cdd-8e4c-a3932772ff8e_myi9vl.gif" width="100%"/>
 
